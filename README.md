@@ -1,8 +1,8 @@
 ![MasterHead](https://64.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif)
 <h1 align="center">Hi 👋, I'm Augusto!</h1>
-<h3 align="center">A passionate front-end developer from Brazil</h3>
+<h3 align="center">A passionate full-stack developer from Brazil</h3>
 
-- 🌱 I’m currently learning **NestJS, NextJS**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 📫 How to reach me **augustoams01@gmail.com**
 
